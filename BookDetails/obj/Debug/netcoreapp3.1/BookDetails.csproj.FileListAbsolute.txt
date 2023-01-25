@@ -1,0 +1,14 @@
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\bin\Debug\netcoreapp3.1\BookDetails.exe
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\bin\Debug\netcoreapp3.1\BookDetails.deps.json
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\bin\Debug\netcoreapp3.1\BookDetails.runtimeconfig.json
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\bin\Debug\netcoreapp3.1\BookDetails.runtimeconfig.dev.json
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\bin\Debug\netcoreapp3.1\BookDetails.dll
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\bin\Debug\netcoreapp3.1\BookDetails.pdb
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\obj\Debug\netcoreapp3.1\BookDetails.csproj.AssemblyReference.cache
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\obj\Debug\netcoreapp3.1\BookDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\obj\Debug\netcoreapp3.1\BookDetails.AssemblyInfoInputs.cache
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\obj\Debug\netcoreapp3.1\BookDetails.AssemblyInfo.cs
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\obj\Debug\netcoreapp3.1\BookDetails.csproj.CoreCompileInputs.cache
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\obj\Debug\netcoreapp3.1\BookDetails.dll
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\obj\Debug\netcoreapp3.1\BookDetails.pdb
+C:\Users\MALLUGOR\source\repos\Calculator 1\BookDetails\obj\Debug\netcoreapp3.1\BookDetails.genruntimeconfig.cache

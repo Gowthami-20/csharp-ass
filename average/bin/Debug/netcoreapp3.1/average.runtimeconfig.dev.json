@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MALLUGOR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MALLUGOR\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\MALLUGOR\source\repos\Calculator 1\Calculator 1\obj\Debug\netcoreapp3.1\Calculator 1.csproj.AssemblyReference.cache
+C:\Users\MALLUGOR\source\repos\Calculator 1\Calculator 1\obj\Debug\netcoreapp3.1\Calculator 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALLUGOR\source\repos\Calculator 1\Calculator 1\obj\Debug\netcoreapp3.1\Calculator 1.AssemblyInfoInputs.cache
+C:\Users\MALLUGOR\source\repos\Calculator 1\Calculator 1\obj\Debug\netcoreapp3.1\Calculator 1.AssemblyInfo.cs
+C:\Users\MALLUGOR\source\repos\Calculator 1\Calculator 1\obj\Debug\netcoreapp3.1\Calculator 1.csproj.CoreCompileInputs.cache
