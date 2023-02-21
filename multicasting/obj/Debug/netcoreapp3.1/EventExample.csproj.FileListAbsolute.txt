@@ -1,0 +1,5 @@
+C:\Users\MALLUGOR\source\repos\Console App4\ConsoleApp4\obj\Debug\netcoreapp3.1\EventExample.csproj.AssemblyReference.cache
+C:\Users\MALLUGOR\source\repos\Console App4\ConsoleApp4\obj\Debug\netcoreapp3.1\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALLUGOR\source\repos\Console App4\ConsoleApp4\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfoInputs.cache
+C:\Users\MALLUGOR\source\repos\Console App4\ConsoleApp4\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfo.cs
+C:\Users\MALLUGOR\source\repos\Console App4\ConsoleApp4\obj\Debug\netcoreapp3.1\EventExample.csproj.CoreCompileInputs.cache
