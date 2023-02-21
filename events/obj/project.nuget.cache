@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SoEcXEI/NCHvInrNY963SXSr5HalFrS94Q2RMARLwhxgsUaAFSJ21GYfsqvjJ+kMcvnTKrkXL8EB0LoHmya51Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MALLUGOR\\source\\repos\\Console App4\\ConsoleApp6\\event.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MALLUGOR\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\MALLUGOR\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\MALLUGOR\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\MALLUGOR\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
