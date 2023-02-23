@@ -1,0 +1,14 @@
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\bin\Debug\netcoreapp3.1\CollMyStack.exe
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\bin\Debug\netcoreapp3.1\CollMyStack.deps.json
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\bin\Debug\netcoreapp3.1\CollMyStack.runtimeconfig.json
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\bin\Debug\netcoreapp3.1\CollMyStack.runtimeconfig.dev.json
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\bin\Debug\netcoreapp3.1\CollMyStack.dll
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\bin\Debug\netcoreapp3.1\CollMyStack.pdb
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\obj\Debug\netcoreapp3.1\CollMyStack.csproj.AssemblyReference.cache
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\obj\Debug\netcoreapp3.1\CollMyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\obj\Debug\netcoreapp3.1\CollMyStack.AssemblyInfoInputs.cache
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\obj\Debug\netcoreapp3.1\CollMyStack.AssemblyInfo.cs
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\obj\Debug\netcoreapp3.1\CollMyStack.csproj.CoreCompileInputs.cache
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\obj\Debug\netcoreapp3.1\CollMyStack.dll
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\obj\Debug\netcoreapp3.1\CollMyStack.pdb
+C:\Users\MALLUGOR\source\repos\employee\CollMyStack\obj\Debug\netcoreapp3.1\CollMyStack.genruntimeconfig.cache
