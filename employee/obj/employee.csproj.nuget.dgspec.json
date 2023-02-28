@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MALLUGOR\\source\\repos\\employee\\employee\\employee.csproj": {}
+    "C:\\Users\\MALLUGOR\\source\\repos\\Assignment 4\\employee\\employee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MALLUGOR\\source\\repos\\employee\\employee\\employee.csproj": {
+    "C:\\Users\\MALLUGOR\\source\\repos\\Assignment 4\\employee\\employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MALLUGOR\\source\\repos\\employee\\employee\\employee.csproj",
+        "projectUniqueName": "C:\\Users\\MALLUGOR\\source\\repos\\Assignment 4\\employee\\employee.csproj",
         "projectName": "employee",
-        "projectPath": "C:\\Users\\MALLUGOR\\source\\repos\\employee\\employee\\employee.csproj",
+        "projectPath": "C:\\Users\\MALLUGOR\\source\\repos\\Assignment 4\\employee\\employee.csproj",
         "packagesPath": "C:\\Users\\MALLUGOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MALLUGOR\\source\\repos\\employee\\employee\\obj\\",
+        "outputPath": "C:\\Users\\MALLUGOR\\source\\repos\\Assignment 4\\employee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MALLUGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
